@@ -1,0 +1,60 @@
+.carousel-item{
+  max-height: 80%;
+}
+
+#third{
+  align:top ;
+  text-align: left;
+  font-size: 50px;
+  padding-bottom: 700px;
+  font-family: 'Ibarra Real Nova', serif;
+}
+#first
+{
+  font-family: 'Ibarra Real Nova', serif;
+  align:top ;
+  text-align: left;
+  font-size: 50px;
+  padding-bottom: 700px;
+
+}
+.click{
+  padding-left: 250px;
+
+}
+.button{
+  background-color: black;
+  color: white;
+}
+#second{
+  align:top ;
+  text-align: left;
+  font-size: 50px;
+  padding-bottom: 700px;
+  font-family: 'Ibarra Real Nova', serif;
+
+}
+.navbar .nav-item .dropdown{
+  color: white !important;
+}
+#serv{
+
+  font-family: 'Ibarra Real Nova', serif;
+font-family: 'Roboto', sans-serif;
+}
+#aboutus{
+  align: center;
+  text-align: center;
+  
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.gal{
+  align: center;
+  text-align: center;
+
+  font-family: 'Ibarra Real Nova', serif;
+font-family: 'Noto Sans JP', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
